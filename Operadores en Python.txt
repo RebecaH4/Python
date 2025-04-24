@@ -1,0 +1,55 @@
+Operadores aritmeticos en Python
+
++ suma 
+- resta 
+* multiplicacion
+/ division
+// division entera 
+pow potencia
+% residuo
+
+Operadores relacionales en Python
+
+> mayor que
+< menor que 
+>= mayor o igual
+<= menor o igual
+== igual a
+!= distinto a 
+
+Operadores logicos en Python
+
+not---> !
+and ---> &
+or exclusivo---> ^
+or---> |
+
+
+comentario en un renglon --- > #
+comentario ---> " "
+mensaje formateado --> f
+
+
+Sintaxis de un ciclo:
+
+Instrucciones 
+ciclo condicion:
+	instrucciones 
+	incremento
+
+Sintaxis de un ciclo anidado:
+
+Instrucciones
+ciclo1 condicion:
+	#Instrucciones
+	ciclo2 condicion:
+		#Instrucciones 
+		ciclo3 condicion:
+			#Instrucciones 
+		Fin ciclo 3
+	Fin ciclo2
+Fin ciclo1
+#otras instrucciones 
+
+
+

@@ -1,4 +1,4 @@
-
+#Rebe HC
 x = int(input("Ingresa un numero "))
 i = 0
 m = 0

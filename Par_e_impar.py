@@ -1,3 +1,4 @@
+#Rebe HC
 #Desiciones simples
 x = int(input("Escribe un numero "))
 
